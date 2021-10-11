@@ -1,0 +1,48 @@
+#show_sketch {
+
+  float:right;
+
+}
+
+body {
+
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background:linear-gradient(red,blue);
+
+}
+
+#header {
+
+  font-weight: bold;
+  color: yellow;
+
+}
+
+span {
+
+  font-weight: bold;
+  font-size: 25px;
+
+}
+
+#span3, #sketch_to_be_drawn {
+
+  color:yellow;
+  font-size: 27px;
+
+}
+
+#score_label, #score {
+
+  float: left;
+
+}
+
+#time_label, #time {
+
+  float: right;
+
+}
